@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1002931568183",
+    "project_id": "taekwondodatabase-f89aa",
+    "storage_bucket": "taekwondodatabase-f89aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002931568183:android:599c7a023dc138d33ec9b2",
+        "android_client_info": {
+          "package_name": "com.example.tma_instructors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002931568183-81op4og2pn01p45784rjvic1tm1snov7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLX-TNVATfbE0_1WCLtejjcFAjhr-XN5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002931568183-81op4og2pn01p45784rjvic1tm1snov7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1002931568183-2vf0cvlr6pooi3flp381ri3ob83l83jo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.truemartialarts.tmaInstructors"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
